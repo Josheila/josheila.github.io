@@ -3,17 +3,28 @@
   <entry>
     <title>Ah Im back.</title>
     <url>/2020/03/21/Ah-Im-back/</url>
-    <content><![CDATA[<a id="more"></a>
-
-<p>blog干掉重来了<br><del>再找网管修电脑我就是狗</del></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Ah Im back.</title>
-    <url>/2020/03/19/1/</url>
-    <content><![CDATA[<a id="more"></a>
-
-<p>blog干掉重来了<br><del>再找网管修电脑我就是狗</del></p>
-]]></content>
+    <content><![CDATA[<p>Ah ha!</p>
+<a id="more"></a>
+<p>blog干掉重来了<br><del><strong>再找网管修电脑我就是狗</strong></del></p>
+<p>每天要赞美VS Code一百次<br>代码真是太有趣了。<br><strong>Make me feel on top of the world.</strong> <span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f384.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f384.png?v8">🎄</span></p>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
   </entry>
 </search>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello</title>
-    <url>/2020/03/22/hello/</url>
-    <content><![CDATA[<img src="/assets/postimage/001.jpg" width="75%" align="left/">
+    <title>誕生日です。</title>
+    <url>/2020/03/21/Ah-Im-back/</url>
+    <content><![CDATA[<p>.</p>
+<a id="more"></a>
+<p>This blog was..<br>born in 03-19 and reborn in 03-21.<br><del><strong>再找网管修电脑我就是狗</strong></del></p>
+<p>赞美VS Code一百次。<br>代码的世界太有趣。<br>每天都不想睡。<br><strong>Make me feel on top of the world.</strong> <span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f384.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f384.png?v8">🎄</span></p>
+<p>搭这个博客是因为起初在godaddy上看域名，看完决定投奔github<br>在B站恰好遇到了hexo的教程 踩了一遍雷之后搭好了<br>既然搭好了就开始用吧<span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8">😄</span></p>
 <script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
@@ -26,32 +30,5 @@
       <categories>
         <category>fakediary</category>
       </categories>
-  </entry>
-  <entry>
-    <title>Ah Im back.</title>
-    <url>/2020/03/21/Ah-Im-back/</url>
-    <content><![CDATA[<p>Ah ha!</p>
-<a id="more"></a>
-<p>blog干掉重来了<br><del><strong>再找网管修电脑我就是狗</strong></del></p>
-<p>每天要赞美VS Code一百次<br>代码真是太有趣了。<br><strong>Make me feel on top of the world.</strong> <span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f384.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f384.png?v8">🎄</span></p>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script>]]></content>
   </entry>
 </search>
